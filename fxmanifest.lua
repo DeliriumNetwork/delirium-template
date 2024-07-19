@@ -2,7 +2,7 @@ fx_version 'cerulean'
 games { 'gta5' }
 
 author '4rkh4m'
-description 'Resource template for FiveM'
+description 'Delirium template for FiveM'
 version '0.1.0'
 
 lua54 'yes'
