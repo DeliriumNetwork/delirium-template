@@ -24,7 +24,7 @@ Welcome to the Delirium Template for FiveM, a comprehensive starting point for d
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/DeliriumNetwork/delirium-template.git resource-name
+    git clone --depth 1 https://github.com/DeliriumNetwork/delirium-template.git resource-name
     ```
 
 2. **Navigate to the project directory:**
