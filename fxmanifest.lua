@@ -3,7 +3,7 @@ games { 'gta5' }
 
 author '4rkh4m'
 description 'Delirium Network template for FiveM'
-version '0.1.0'
+version '0.0.1'
 
 lua54 'yes'
 
