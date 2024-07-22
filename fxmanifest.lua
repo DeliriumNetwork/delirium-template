@@ -7,6 +7,6 @@ version '0.0.1'
 
 lua54 'yes'
 
-client_scripts { 'client/**/*.lua' }
-server_scripts { 'server/**/*.lua' }
-shared_scripts { 'shared/**/*.lua' }
+client_scripts { 'src/client/**/*.lua' }
+server_scripts { 'src/server/**/*.lua' }
+shared_scripts { 'src/shared/**/*.lua' }
