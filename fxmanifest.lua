@@ -13,4 +13,4 @@ client_scripts { 'src/client/**/*.lua' }
 server_scripts { 'src/server/**/*.lua' }
 shared_scripts { 'src/shared/**/*.lua' }
 
-files { 'src/ui/dist/**/*' }
+files { 'src/ui/dist/index.html', 'src/ui/dist/**/*.js', 'src/ui/dist/**/*.css' }
